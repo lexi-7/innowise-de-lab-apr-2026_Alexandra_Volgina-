@@ -1,1 +1,2 @@
-# innowise-de-lab-apr-2026_Alexandra_Volgina-
+# EcoMarket
+Цель: учебный проект
