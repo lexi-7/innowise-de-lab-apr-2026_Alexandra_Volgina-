@@ -55,17 +55,6 @@
 - Тип связи: 1:M
 - В одном городе может проживать много покупателей
 
-## Итоговая таблица связей (текстовый формат)
-
-- countries (1) → (M) cities
-- cities (1) → (M) shops
-- shops (1) → (M) employees
-- employees (1) → (M) sales
-- customers (1) → (M) sales
-- products (1) → (M) sales
-- categories (1) → (M) products
-- cities (1) → (M) employees (проживание)
-- cities (1) → (M) customers (проживание)
 
 ## Примечания
 
